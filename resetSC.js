@@ -13,3 +13,5 @@ function changeShow(mixerIP, showName, snapshotName) {
 }
 
 changeShow(mixerIP,showName,snapshotName);
+
+console.log("Attempted to reset the soundcraft mixer");
